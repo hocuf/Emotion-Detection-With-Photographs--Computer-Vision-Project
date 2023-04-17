@@ -1,4 +1,4 @@
-# Emotion-Detection-With-Photographs_Computer_Vision_Project
+# Emotion Detection With Photographs Computer Vision Project
 
 
 This project is focused on improving the overall happiness and wellbeing of people in different communal environments. The goal is to achieve this by leveraging the deepface library, which is a powerful facial recognition and analysis tool, to perform emotional analysis on a collection of 100 photographs.
